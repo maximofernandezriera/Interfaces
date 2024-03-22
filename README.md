@@ -1,4 +1,4 @@
-### ¿Qué es una interfaz en Java?
+### ¿Qué es una interfaz en Java? 
 
 ### En pocas palabras
 
